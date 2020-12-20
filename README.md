@@ -65,5 +65,7 @@ A budding entrepreneur with love for physics and passion for transformation of I
 <img src="https://img.shields.io/badge/Kaggle-sargupta-blue">
 <a href="https://medium.com/@sargupta93">
 <img src="https://img.shields.io/badge/Medium-sargupta-blue">
+<a href="https://stackoverflow.com/users/9658895/sargupta?tab=profile">
+<img src="https://img.shields.io/badge/Stack%20Overflow-sargupta-blue">
 </a>
 </p>
