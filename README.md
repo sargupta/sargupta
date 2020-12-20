@@ -16,6 +16,7 @@ A budding entrepreneur with love for physics and passion for transformation of I
 
 
 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
 
@@ -23,14 +24,6 @@ A budding entrepreneur with love for physics and passion for transformation of I
 
 ### Main Programming Language :desktop_computer: 
 - Python <img src="https://user-images.githubusercontent.com/28517335/102723536-9f979480-432e-11eb-8552-fdb39e939362.png" width="40px">
-
-
-## My Repos
-
-[![Freelance](https://github-readme-stats.vercel.app/api/pin/?username=sargupta&repo=Freelance&show_owner=true)](https://github.com/sargupta/Freelance)
-
-[![Sales_Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sargupta&repo=Sales-Prediction&show_owner=true)](https://github.com/sargupta/Sales-Prediction)
-
 
 
 ### Interests 👨‍💻
@@ -43,7 +36,7 @@ A budding entrepreneur with love for physics and passion for transformation of I
 - Creative Thinking
 
 
-**Languages and Tools:**  
+### Languages and Platforms 🦄
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
