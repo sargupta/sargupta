@@ -15,10 +15,9 @@ A budding entrepreneur with love for physics and passion for transformation of I
 - 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
 
 
-## Check my blogs
+## My latest Medium articles
 
 <details> 
- <summary><b>📑 My latest Medium articles</b>:</summary>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/1" alt="Recent Article 1"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sargupta93/2" alt="Recent Article 2"></a>
