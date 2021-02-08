@@ -16,7 +16,15 @@ A budding entrepreneur with love for physics and passion for transformation of I
 - 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
 - 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
 
+## Check my blogs
 
+<details> 
+ <summary><b>📑 My latest Medium articles</b>:</summary>
+    <a target="_blank" href="https://medium.com/@sargupta93/creating-a-virtual-environment-with-python3-1c9d9c4a1856"><img src="https://medium.com/@sargupta93/creating-a-virtual-environment-with-python3-1c9d9c4a1856" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://medium.com/@sargupta93/how-to-set-up-code-server-to-access-directly-from-your-browser-c62d14185ec2"><img src="https://medium.com/@sargupta93/how-to-set-up-code-server-to-access-directly-from-your-browser-c62d14185ec2" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://medium.com/@sargupta93/interactive-mapping-of-daily-new-covid-19-cases-5e366f741358"><img src="https://medium.com/@sargupta93/interactive-mapping-of-daily-new-covid-19-cases-5e366f741358" alt="Recent Article 2"></a>
+
+</details>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sargupta&layout=compact)
