@@ -12,7 +12,7 @@ A budding entrepreneur with love for physics and passion for transformation of I
 - 🔭 I’m currently working on Deep Learning Model Deployment on Azure
 
 - 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-- 📫 How to reach me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
+- 📫 How to reach out to me: <a href="https://twitter.com/sargupta93">@sargupta93</a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sargupta&theme=highcontrast&show_icons=true&count_private=true)
